@@ -1,0 +1,16 @@
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.exe
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.deps.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.runtimeconfig.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.runtimeconfig.dev.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ref\ConsoleEx000.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net5.0\ConsoleEx000.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.csproj.AssemblyReference.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.AssemblyInfoInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.AssemblyInfo.cs
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ref\ConsoleEx000.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net5.0\ConsoleEx000.genruntimeconfig.cache
