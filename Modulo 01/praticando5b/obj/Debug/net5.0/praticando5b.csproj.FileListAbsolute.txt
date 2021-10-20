@@ -1,0 +1,16 @@
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.exe
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.deps.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.runtimeconfig.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.runtimeconfig.dev.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\ref\praticando5b.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\bin\Debug\net5.0\praticando5b.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.csproj.AssemblyReference.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.AssemblyInfoInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.AssemblyInfo.cs
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.csproj.CoreCompileInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\ref\praticando5b.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando5b\obj\Debug\net5.0\praticando5b.genruntimeconfig.cache
