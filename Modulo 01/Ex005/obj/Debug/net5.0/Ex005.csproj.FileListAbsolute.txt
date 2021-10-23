@@ -1,0 +1,15 @@
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.exe
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.deps.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.runtimeconfig.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.runtimeconfig.dev.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\ref\Ex005.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\bin\Debug\net5.0\Ex005.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.AssemblyInfoInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.AssemblyInfo.cs
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.csproj.CoreCompileInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\ref\Ex005.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex005\obj\Debug\net5.0\Ex005.genruntimeconfig.cache

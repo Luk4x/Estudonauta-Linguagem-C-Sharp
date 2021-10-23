@@ -1,0 +1,16 @@
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.exe
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.deps.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.runtimeconfig.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.runtimeconfig.dev.json
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\ref\praticando6.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\bin\Debug\net5.0\praticando6.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.AssemblyInfoInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.AssemblyInfo.cs
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.csproj.CoreCompileInputs.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\ref\praticando6.dll
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.pdb
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.genruntimeconfig.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\praticando6\obj\Debug\net5.0\praticando6.csproj.AssemblyReference.cache

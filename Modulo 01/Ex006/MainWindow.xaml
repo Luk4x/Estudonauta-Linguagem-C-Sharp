@@ -1,0 +1,16 @@
+﻿<Window x:Class="Ex006.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ex006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Label Content="Em que anos você nasceu?" HorizontalAlignment="Left" Margin="37,34,0,0" VerticalAlignment="Top" FontSize="30"/>
+        <TextBox x:Name="txtB" HorizontalAlignment="Left" Margin="424,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="30"/>
+        <Button x:Name="btn" Content="Click" HorizontalAlignment="Center" Margin="0,342,0,0" VerticalAlignment="Top" Height="69" Width="188" FontSize="36" Click="Button_Click"/>
+        <Label x:Name="lbl" Content="Label" HorizontalAlignment="Left" Margin="37,147,0,0" VerticalAlignment="Top" FontSize="30" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

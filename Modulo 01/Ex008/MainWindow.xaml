@@ -1,0 +1,18 @@
+﻿<Window x:Class="Ex008.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ex008"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="456" Width="345">
+    <Grid>
+        <Label Content="Inicio" HorizontalAlignment="Left" Margin="29,21,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox x:Name="txtB1" HorizontalAlignment="Left" Margin="147,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <Label Content="Fim" HorizontalAlignment="Left" Margin="38,85,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox x:Name="txtB2" HorizontalAlignment="Left" Margin="147,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <Button Content="SORTEAR" HorizontalAlignment="Center" Margin="0,350,0,0" VerticalAlignment="Top" Height="59" Width="170" FontSize="30" Click="Button_Click"/>
+        <Label x:Name="lbl" Content="Label" HorizontalAlignment="Left" Margin="20,220,0,0" VerticalAlignment="Top" FontSize="24" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
