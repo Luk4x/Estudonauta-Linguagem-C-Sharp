@@ -19,12 +19,12 @@ namespace Ex009
 
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("\n\n\n Produto\t\tPreço ");
+            Console.WriteLine($"{"\n\n\n Produto",-20}{"Preço ",16}");
             Console.ResetColor();
             Console.BackgroundColor = ConsoleColor.DarkGray;
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine($"{produto1}\t\t\t {preço1:c}");
-            Console.WriteLine($"{produto2}\t\t\t {preço2:c}");
+            Console.WriteLine($"{produto1,-20}{preço1,13:c}");
+            Console.WriteLine($"{produto2,-20}{preço2,13:c}");
             Console.ReadKey();
         }
     }

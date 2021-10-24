@@ -13,3 +13,4 @@ C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex009\ob
 C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex009\obj\Debug\net5.0\ref\Ex009.dll
 C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex009\obj\Debug\net5.0\Ex009.pdb
 C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex009\obj\Debug\net5.0\Ex009.genruntimeconfig.cache
+C:\Users\Kiyou\Documents\Github\Estudonauta-Linguagem-C-Sharp\Modulo 01\Ex009\obj\Debug\net5.0\Ex009.csproj.AssemblyReference.cache
