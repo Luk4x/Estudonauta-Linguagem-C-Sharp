@@ -1,2 +1,2 @@
-# Estudonauta-Linguagem-C-Sharp
-Exercícios feitos por mim, propostos no curso de Linguagem C-Sharp do Estudonauta.com, Usando o Visual Studio.
+# Estudonauta-C#-Language
+Exercises made by me, proposed in the C# Language course at estudonauta.com, Using Visual Studio.
